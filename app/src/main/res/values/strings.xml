@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">List</string>
+    <string-array name="gaming_brands">
+        <item>AKRACING</item>
+        <item>Alienware</item>
+        <item>Arozzi</item>
+        <item>BenQ</item>
+        <item>Corsair</item>
+        <item>DX Racer</item>
+        <item>Eurotech</item>
+        <item>Herman Miller</item>
+        <item>HyperX</item>
+        <item>Kingston</item>
+        <item>Logitech G</item>
+        <item>Sennheiser</item>
+        <item>Steelcase</item>
+        <item>SteelSeries</item>
+        <item>Turtle Beach</item>
+        <item>Razer</item>
+        <item>Roccat</item>
+        <item>Vertagear</item>
+        <item>X Rocker</item>
+        <item>Zowie</item>
+    </string-array>
+</resources>
